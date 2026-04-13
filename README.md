@@ -105,6 +105,14 @@ Key visualizations are included in the notebook and the `images/` folder.
 
 ---
 
+## Project Walkthrough (Optional)
+
+A short video overview of the analysis and key insights:
+
+[Link to video]
+
+---
+
 ## Project Structure
 
 ```
