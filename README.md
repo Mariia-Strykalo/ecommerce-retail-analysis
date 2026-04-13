@@ -36,10 +36,9 @@ Additional features were engineered to support analysis (e.g., revenue, transact
 
 ## Data Cleaning & Preparation
 
-* Removed non-relevant entries (e.g., postage-related transactions)
 * Handled missing values in product descriptions
+* Removed non-relevant entries (e.g., postage-related transactions)
 * Identified and excluded non-commercial records (e.g., adjustments, internal operations)
-* Filtered returns to focus on actual revenue impact
 
 ---
 
@@ -75,7 +74,7 @@ Additional features were engineered to support analysis (e.g., revenue, transact
 
 * The business generated strong revenue (~$10.7M), with returns accounting for ~8.4%
 * Revenue shows clear seasonality, peaking in November (pre-holiday period)
-* A small number of products drive a large share of total revenue
+* Revenue is led by a single top product, followed by a gradual decline across other items, indicating a relatively balanced product portfolio.
 * High-revenue products are not always high-volume products
 * Customer behavior varies between frequent small purchases and infrequent high-value orders
 * Returns are highly concentrated in a small subset of products rather than evenly distributed
@@ -85,8 +84,8 @@ Additional features were engineered to support analysis (e.g., revenue, transact
 ## 💡 Business Recommendations
 
 * Investigate high-return products for potential quality or expectation issues
-* Focus on top-performing products to maximize revenue growth
-* Consider strategies for high-value customers (retention or targeting)
+* Continue supporting high-performing products while maintaining a diversified portfolio to reduce dependency on individual items.
+* The business benefits from a diversified customer base, but identifying and supporting higher-value customers could further improve revenue efficiency.
 * Monitor return-heavy items to reduce revenue loss
 
 ---
@@ -122,7 +121,7 @@ online-retail-analysis/
 
 Mariia Strykalo 
 
-Aspiring Data Analyst  
+Data Analyst | Python, Pandas, Data Visualization  
 
 - GitHub: https://github.com/Mariia-Strykalo/
 - LinkedIn: https://www.linkedin.com/in/mariia-s-371483325/
