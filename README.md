@@ -121,6 +121,7 @@ online-retail-analysis/
 ## Author
 
 Mariia Strykalo 
+
 Aspiring Data Analyst  
 
 - GitHub: https://github.com/Mariia-Strykalo/
